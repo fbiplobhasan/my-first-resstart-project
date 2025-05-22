@@ -1,4 +1,10 @@
 p{
     background-color: tomato;
     font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    border: blue solid 20px;
+    border-color: blue;
+    box-shadow: 20px 25px 30px 35px tomato;
 }
